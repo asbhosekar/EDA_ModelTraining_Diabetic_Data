@@ -4,6 +4,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) and builds pre
 
 **Dataset**
 The analysis is based on the diabetes_dataset.csv file. This dataset contains various health and demographic attributes for a large number of individuals and includes a target variable indicating whether an individual was diagnosed with diabetes.
+Data set: https://drive.google.com/file/d/1nKskhqdcHwbbH3FrFbWkoqS_JTRiEpEg/view?usp=drive_link
 
 **Key features in the dataset include:**
 
